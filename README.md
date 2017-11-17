@@ -21,20 +21,41 @@ Here are the lectures of the course for this section...
 + Importing images as planes
 + Loading an image in the UV Image Editor
 
+### 3 Object Mode And Edit Mode
++ The difference between Mesh Data and Mesh objects
++ Models can be made separately and joined
++ When to multiple mesh objects
++ Linked mesh data
++ Remember to Edit in edit mode, saves many headaches later.
+
 ### 99 New Ideas Below
 //// Lecture Plan////
 
-Planning Larger Projects
+### Intersecting Geometry
++ Intersecting geometry good / bad
++ Angle makes a difference Z buffer distance
++ Closing Meshes
++ Animation can expose flawed areas
++ Linked Mesh Data
 
+Separating And Joining Mesh Data
+
+Planning Larger Projects
+Object Mode And Edit Mode
+Creating New geometry
 Extruding
 Loop Cut and Slide
-Object Mode And Edit Mode
+Subdivide
++ Specials Menu
+
 Mesh Objects Vs Mesh Data
 The Mirror Modifier
 + Making everything separate and joining at the end works
+
 Automatic UV Unwrapping
 + You can add mesh data to a mesh object but you might need to unwrap again an possibly re texture!
 Seams
+
 UV Image Editor
 Texturing Our Model
 Packing Textures Vs Saving Them
