@@ -28,15 +28,17 @@ Here are the lectures of the course for this section...
 + Linked mesh data
 + Remember to Edit in edit mode, saves many headaches later.
 
-### 99 New Ideas Below
-//// Lecture Plan////
-
-### Intersecting Geometry
+### 4 Intersecting Geometry
 + Intersecting geometry good / bad
 + Angle makes a difference Z buffer distance
 + Closing Meshes
 + Animation can expose flawed areas
 + Linked Mesh Data
+
+### 99 New Ideas Below
+//// Lecture Plan////
+
+
 
 Separating And Joining Mesh Data
 
