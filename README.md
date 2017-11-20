@@ -35,18 +35,31 @@ Here are the lectures of the course for this section...
 + Animation can expose flawed areas
 + Linked Mesh Data
 
+### 5 Creating New Geometry
++ Extruding
++ Insetting
++ Bevelling a vertex
++ Keep an eye out for double extrudes
++ Removing doubles
+
 ### 99 New Ideas Below
 //// Lecture Plan////
 
+Adjusting Geometry
++ Loop Cut and Slide
++ Transforms
++ Edge Slide
 
-
-Separating And Joining Mesh Data
+Keep Your Models Simple
++ Using Modifiers to construction
++ Keep the model low poly for quick changes
++ Subdivision surface modifier Example
++
 
 Planning Larger Projects
-Object Mode And Edit Mode
-Creating New geometry
+
 Extruding
-Loop Cut and Slide
+
 Subdivide
 + Specials Menu
 
