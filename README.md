@@ -41,31 +41,31 @@ Here are the lectures of the course for this section...
 + Bevelling a vertex
 + Keep an eye out for double extrudes
 + Removing doubles
++ Deleting Loose Geometry
 
-### 99 New Ideas Below
-//// Lecture Plan////
-
-Adjusting Geometry
+### 6 Adjusting Geometry
 + Loop Cut and Slide
 + Transforms
 + Edge Slide
++ Aligning with other mesh data, Snapping
+
+
+
+### 99 New Ideas Below
+//// Lecture Plan////
+The Mirror Modifier
++ Making everything separate and joining at the end works
+
 
 Keep Your Models Simple
-+ Using Modifiers to construction
++ Using Modifiers to aid construction
 + Keep the model low poly for quick changes
 + Subdivision surface modifier Example
 +
 
 Planning Larger Projects
 
-Extruding
 
-Subdivide
-+ Specials Menu
-
-Mesh Objects Vs Mesh Data
-The Mirror Modifier
-+ Making everything separate and joining at the end works
 
 Automatic UV Unwrapping
 + You can add mesh data to a mesh object but you might need to unwrap again an possibly re texture!
