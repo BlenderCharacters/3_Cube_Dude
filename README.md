@@ -49,12 +49,17 @@ Here are the lectures of the course for this section...
 + Edge Slide
 + Aligning with other mesh data, Snapping
 
+### 7 The Mirror Modifier
++ Making everything separate and joining at the end works
++ Using the mirror modifier
++ Understanding reflection axes
++ Using clipping and merge options
++ Common mirror modifier pitfalls
 
 
 ### 99 New Ideas Below
 //// Lecture Plan////
-The Mirror Modifier
-+ Making everything separate and joining at the end works
+
 
 
 Keep Your Models Simple
