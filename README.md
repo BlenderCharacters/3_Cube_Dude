@@ -56,7 +56,22 @@ Here are the lectures of the course for this section...
 + Using clipping and merge options
 + Common mirror modifier pitfalls
 
+### 8 Quick Texturing Our Model (Blender Render)
++ After modelling is completed texturing can be done
++ Paint in the 3D window
++ Quick texturing methods
 
+### 9 UV Unwrapping
++ Smart UV Project
++ You can add mesh data to a mesh object but you might need to unwrap again an possibly re texture if you do that!
+
+### 10 Creating A Texture
+
+### Applying The Texture To Our Model
+
+### 9 Texturing Our Model (Cycles)
++ Brief Recap of previous lectures
++ Setting up texture so it is visible in Cycles And Blender Render
 ### 99 New Ideas Below
 //// Lecture Plan////
 
@@ -72,9 +87,7 @@ Planning Larger Projects
 
 
 
-Automatic UV Unwrapping
-+ You can add mesh data to a mesh object but you might need to unwrap again an possibly re texture!
-Seams
+
 
 UV Image Editor
 Texturing Our Model
