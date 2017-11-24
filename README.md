@@ -66,6 +66,13 @@ Here are the lectures of the course for this section...
 + Seams
 + You can add mesh data to a mesh object but you might need to unwrap again an possibly re texture if you do that!
 
+### 10 Optimising A UV
++ Controlling the UV layout
++ Alter the UV layout
++ Look at different ways to optimise
++ Packing islands
++ Understanding island margins
+
 ### 10 Creating A Texture
 
 ### Applying The Texture To Our Model
