@@ -61,8 +61,9 @@ Here are the lectures of the course for this section...
 + Paint in the 3D window
 + Quick texturing methods
 
-### 9 UV Unwrapping
+### 9 UV Unwrapping Overview
 + Smart UV Project
++ Seams
 + You can add mesh data to a mesh object but you might need to unwrap again an possibly re texture if you do that!
 
 ### 10 Creating A Texture
