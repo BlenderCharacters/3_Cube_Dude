@@ -56,6 +56,9 @@ Here are the lectures of the course for this section...
 + Using clipping and merge options
 + Common mirror modifier pitfalls
 
+### 7a Checking An Exported Model (In Unity)
++ Quickly check our model looks as expected externally to Blender
+
 ### 8 Quick Texturing Our Model (Blender Render)
 + After modelling is completed texturing can be done
 + Paint in the 3D window
@@ -78,7 +81,8 @@ Here are the lectures of the course for this section...
 + Applying materials to a model
 + Assigning a texture to that material
 
-## 12
+## 12 Checking Our Texture Works Externally
++ Quickly check our model looks as expected externally to Blender
 
 ### Applying Multiple Textures To Our Model
 + Useful If you want to mock something out quickly
