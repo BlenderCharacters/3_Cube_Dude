@@ -73,11 +73,18 @@ Here are the lectures of the course for this section...
 + Packing islands
 + Understanding island margins
 
-### 10 Creating A Texture
+### 11 Creating A Texture
++ Painting in the UV/Image Editor
++ Applying materials to a model
++ Assigning a texture to that material
 
-### Applying The Texture To Our Model
+## 12
 
-### 9 Texturing Our Model (Cycles)
+### Applying Multiple Textures To Our Model
++ Useful If you want to mock something out quickly
++ Works well with broad areas
+
+### Texturing Our Model (Cycles)
 + Brief Recap of previous lectures
 + Setting up texture so it is visible in Cycles And Blender Render
 ### 99 New Ideas Below
