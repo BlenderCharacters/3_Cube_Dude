@@ -81,16 +81,18 @@ Here are the lectures of the course for this section...
 + Applying materials to a model
 + Assigning a texture to that material
 
-## 12 Checking Our Texture Works Externally
+### 12 Checking Our Texture Works Externally
 + Quickly check our model looks as expected externally to Blender
 
-### Applying Multiple Textures To Our Model
+### 13 Applying Multiple Textures To Our Model
 + Useful If you want to mock something out quickly
 + Works well with broad areas
 
-### Texturing Our Model (Cycles)
-+ Brief Recap of previous lectures
+### 14 Texturing Our Model (Cycles)
++ Brief recap of previous lectures
 + Setting up texture so it is visible in Cycles And Blender Render
++ Switch between Blender Render and Cycles
+
 ### 99 New Ideas Below
 //// Lecture Plan////
 
