@@ -96,24 +96,16 @@ Here are the lectures of the course for this section...
 ### 99 New Ideas Below
 //// Lecture Plan////
 
+### Minimum Skeleton Requirements
++ 15 Bones as a minimum
++ Hips are generally the root of ALL the other bones
++ Name bones as you go
 
 
-Keep Your Models Simple
-+ Using Modifiers to aid construction
-+ Keep the model low poly for quick changes
-+ Subdivision surface modifier Example
-+
 
 Planning Larger Projects
 
 
-
-
-
-UV Image Editor
-Texturing Our Model
-Packing Textures Vs Saving Them
-Minimum Skeleton Requirements
 Root Bones
 Skeleton Flow
 Mirroring
@@ -134,5 +126,10 @@ Forward Kinematics
 Inverse Kinematics
 
 ///
+Keep Your Models Simple
++ Using Modifiers to aid construction
++ Keep the model low poly for quick changes
++ Subdivision surface modifier Example
++
 
 Swapping Out Items
