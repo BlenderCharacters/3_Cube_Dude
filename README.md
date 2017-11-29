@@ -93,27 +93,21 @@ Here are the lectures of the course for this section...
 + Setting up texture so it is visible in Cycles And Blender Render
 + Switch between Blender Render and Cycles
 
+### 15 Minimum Skeleton Requirements
++ 15 Bones as a minimum
++ Hips are generally the root of the other bones
++ Name bones as you go
+
 ### 99 New Ideas Below
 //// Lecture Plan////
 
 
 
-Keep Your Models Simple
-+ Using Modifiers to aid construction
-+ Keep the model low poly for quick changes
-+ Subdivision surface modifier Example
-+
+
 
 Planning Larger Projects
 
 
-
-
-
-UV Image Editor
-Texturing Our Model
-Packing Textures Vs Saving Them
-Minimum Skeleton Requirements
 Root Bones
 Skeleton Flow
 Mirroring
@@ -134,5 +128,10 @@ Forward Kinematics
 Inverse Kinematics
 
 ///
+Keep Your Models Simple
++ Using Modifiers to aid construction
++ Keep the model low poly for quick changes
++ Subdivision surface modifier Example
++
 
 Swapping Out Items
