@@ -98,25 +98,28 @@ Here are the lectures of the course for this section...
 + Hips are generally the root of the other bones
 + Name bones as you go
 
+### 16 Automatically Linking Our Mesh And Armature
++ Fix bone orientation issue
++ Works great as good first pass
++ Can fail badly too
++ A look at what is going on
+
 ### 99 New Ideas Below
 //// Lecture Plan////
 
 
 
+### 17 Vertex Groups
+
+### Creating Custom Shape Bones
 
 
 Planning Larger Projects
 
-
-Root Bones
-Skeleton Flow
-Mirroring
-Joint Placement
 The Rigify Add-On
-Creating Custom Bones
+
 The Armature Modifier
-Automatic weighting
-Vertex Groups
+
 Weight Painting
 Taking Control Of Rotation
 Bendy Bones
