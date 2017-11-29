@@ -112,7 +112,9 @@ Here are the lectures of the course for this section...
 ### 18 Checking Your Rig Externally (Unity and Unreal)
 + A Quick check to ensure what we have made is functioning as expected externally
 
-### 19 Spaces Quick Win
+### 19 Spaces
++ A Quick Look at the various spaces you can work in
++ What the difference is between the main two, Global/World and Local
 
 
 ### Limiting Joint Movement
