@@ -109,8 +109,15 @@ Here are the lectures of the course for this section...
 + A Vertex can be a member of more than one group
 + This is used all across Blender not just for armatures
 
-### 18 Checking You Rig Is Working Externally (Unity)
-+ A Quick check to ensure what we have made is functioning as expected externally 
+### 18 Checking Your Rig Externally (Unity and Unreal)
++ A Quick check to ensure what we have made is functioning as expected externally
+
+### 19 Spaces Quick Win
+
+
+### Limiting Joint Movement
++ Bone Constraints
++
 
 ### 99 New Ideas Below
 //// Lecture Plan////
@@ -125,8 +132,6 @@ Here are the lectures of the course for this section...
 Planning Larger Projects
 
 The Rigify Add-On
-
-The Armature Modifier
 
 Weight Painting
 Taking Control Of Rotation
