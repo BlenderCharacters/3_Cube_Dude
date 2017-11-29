@@ -116,29 +116,21 @@ Here are the lectures of the course for this section...
 + A Quick Look at the various spaces you can work in
 + What the difference is between the main two, Global/World and Local
 
-
-### Limiting Joint Movement
+### 20 Limiting Joint Movement
 + Bone Constraints
-+
++ Bone Roll
 
 ### 99 New Ideas Below
 //// Lecture Plan////
 
-
-
-
-
 ### Creating Custom Shape Bones
-
 
 Planning Larger Projects
 
 The Rigify Add-On
 
 Weight Painting
-Taking Control Of Rotation
 Bendy Bones
-Preventing Unwanted Collisions
 Euler Vs Quaternions
 Smooth Vs Rigid Binding
 Creating Natural Motion
