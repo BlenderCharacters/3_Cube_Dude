@@ -104,12 +104,20 @@ Here are the lectures of the course for this section...
 + Can fail badly too
 + A look at what is going on
 
+### 17 Vertex Groups
++ Understanding it is a way of grouping vertices
++ A Vertex can be a member of more than one group
++ This is used all across Blender not just for armatures
+
+### 18 Checking You Rig Is Working Externally (Unity)
++ A Quick check to ensure what we have made is functioning as expected externally 
+
 ### 99 New Ideas Below
 //// Lecture Plan////
 
 
 
-### 17 Vertex Groups
+
 
 ### Creating Custom Shape Bones
 
