@@ -138,7 +138,7 @@ Here are the lectures of the course for this section...
 + These are another type of control bone which other bones point towards
 + Control Bone- Turn off deforming
 
-### Quickly Mirroring And Renaming Bones
+### 25 Quickly Mirroring And Renaming Bones
 + Quick way of mirroring your bones
 + Rename Bones from left to right with ease
 
