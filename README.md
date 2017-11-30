@@ -120,10 +120,16 @@ Here are the lectures of the course for this section...
 + Bone Constraints
 + Bone Roll
 
+### 21 Creating Custom Shaped Bones
++ Create different shaped for bones that have a different purpose
++ How to Toggle custom Shapes on and of
++ Reasons for having a custom bone shape
+
+
 ### 99 New Ideas Below
 //// Lecture Plan////
 
-### Creating Custom Shape Bones
+
 
 Planning Larger Projects
 
