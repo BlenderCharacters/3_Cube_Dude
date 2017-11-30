@@ -145,6 +145,12 @@ Here are the lectures of the course for this section...
 ### 26 Re-Rigging The Model
 + Re link the mesh to the armature
 
+### 27 Extra Control Bones
++ A main placement control bones
++ Parenting of the IK and pole bones
++ Possible re-parenting of the leg and arm chains
+
+
 ### 99 New Ideas Below
 //// Lecture Plan////
 
