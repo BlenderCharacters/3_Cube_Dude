@@ -155,6 +155,13 @@ Here are the lectures of the course for this section...
 + More that one bone layer can be shown at a time
 + This help optimise our display so only key bones are on display
 
+### 29 Researching A Walk Cycle
++ Walk around
++ Watch people walking
++ Use a mirror/ reflection
++ 5 Key Stages and then it repeats
++ Contact, Down, Passing, Up and Contact
+
 ### 99 New Ideas Below
 //// Lecture Plan////
 
