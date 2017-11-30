@@ -93,6 +93,14 @@ Here are the lectures of the course for this section...
 + Setting up texture so it is visible in Cycles And Blender Render
 + Switch between Blender Render and Cycles
 
+### 14a Generated Textures
++ Quick to apply to a model
+require baking to use outside of Blender
+
+### 14b Masking off Areas when Painting
++ Using Face Masks
++ Using Texture Masks
+
 ### 15 Minimum Skeleton Requirements
 + 15 Bones as a minimum
 + Hips are generally the root of the other bones
