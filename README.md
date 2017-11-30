@@ -125,6 +125,22 @@ Here are the lectures of the course for this section...
 + How to Toggle custom Shapes on and of
 + Reasons for having a custom bone shape
 
+### 22 Inverse Kinematics (IK) Introduction
++ Forward Kinematics (FK) what we have been using know
++ A Mix of IK and FK gives you a productive work flow.
+
+### 23 Adding IK Control Bones
++ Control bones
++ Turn off deforming as they have no direct influence over the mesh
++ Setup IK constraints
+
+### 24 Adding Pole Targets
++ These are another type of control bone which other bones point towards
++ Control Bone- Turn off deforming
+
+### Quickly Mirroring And Renaming Bones
++ Quick way of mirroring your bones
++ Rename Bones from left to right with ease
 
 ### 99 New Ideas Below
 //// Lecture Plan////
@@ -141,7 +157,7 @@ Euler Vs Quaternions
 Smooth Vs Rigid Binding
 Creating Natural Motion
 Forward Kinematics
-Inverse Kinematics
+
 
 ///
 Keep Your Models Simple
