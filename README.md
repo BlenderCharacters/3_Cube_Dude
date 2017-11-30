@@ -142,6 +142,9 @@ Here are the lectures of the course for this section...
 + Quick way of mirroring your bones
 + Rename Bones from left to right with ease
 
+### 26 Re-Rigging The Model
++ Re link the mesh to the armature
+
 ### 99 New Ideas Below
 //// Lecture Plan////
 
