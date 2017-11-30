@@ -150,6 +150,10 @@ Here are the lectures of the course for this section...
 + Parenting of the IK and pole bones
 + Possible re-parenting of the leg and arm chains
 
+### 28 Bone Layers
++ Bones can be moved on top multiple layers
++ More that one bone layer can be shown at a time
++ This help optimise our display so only key bones are on display
 
 ### 99 New Ideas Below
 //// Lecture Plan////
