@@ -81,6 +81,11 @@ Here are the lectures of the course for this section...
 + Applying materials to a model
 + Assigning a texture to that material
 
+### 11a Exporting Just The UV Map
++ We will unwrap a more complex object
++ Export the UV Map for work in an external program
++ Reimport the image and test!
+
 ### 12 Checking Our Texture Works Externally
 + Quickly check our model looks as expected externally to Blender
 
@@ -97,10 +102,6 @@ Here are the lectures of the course for this section...
 + Quick to apply to a model
 require baking to use outside of Blender
 
-### 14b Masking off Areas when Painting
-+ Using Face Masks
-+ Using Texture Masks
-
 ### 15 Minimum Skeleton Requirements
 + 15 Bones as a minimum
 + Hips are generally the root of the other bones
@@ -116,6 +117,10 @@ require baking to use outside of Blender
 + Understanding it is a way of grouping vertices
 + A Vertex can be a member of more than one group
 + This is used all across Blender not just for armatures
+
+### 17a Masking off Areas when Painting
++ Using Face Masks
++ Using Texture Masks
 
 ### 18 Checking Your Rig Externally (Unity and Unreal)
 + A Quick check to ensure what we have made is functioning as expected externally
