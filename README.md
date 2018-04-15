@@ -49,6 +49,8 @@ Here are the lectures of the course for this section...
 + Edge Slide
 + Aligning with other mesh data, Snapping
 
+Updated 15/04/2018
+
 ### 7 The Mirror Modifier
 + Making everything separate and joining at the end works
 + Using the mirror modifier
