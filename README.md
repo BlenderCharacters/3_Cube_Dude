@@ -56,6 +56,8 @@ Here are the lectures of the course for this section...
 + Using clipping and merge options
 + Common mirror modifier pitfalls
 
+Lecture Updated 15/04/2018
+
 ### 7a Checking An Exported Model (In Unity)
 + Quickly check our model looks as expected externally to Blender
 
