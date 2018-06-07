@@ -166,6 +166,7 @@ require baking to use outside of Blender
 + A main placement control bones
 + Parenting of the IK and pole bones
 + Possible re-parenting of the leg and arm chains
++ (Updated 7/6/2018)
 
 ### 28 Bone Layers
 + Bones can be moved on top multiple layers
@@ -178,29 +179,3 @@ require baking to use outside of Blender
 + Use a mirror/ reflection
 + 5 Key Stages and then it repeats
 + Contact, Down, Passing, Up and Contact
-
-### 99 New Ideas Below
-//// Lecture Plan////
-
-
-
-Planning Larger Projects
-
-The Rigify Add-On
-
-Weight Painting
-Bendy Bones
-Euler Vs Quaternions
-Smooth Vs Rigid Binding
-Creating Natural Motion
-Forward Kinematics
-
-
-///
-Keep Your Models Simple
-+ Using Modifiers to aid construction
-+ Keep the model low poly for quick changes
-+ Subdivision surface modifier Example
-+
-
-Swapping Out Items
